@@ -1,2 +1,1 @@
-# PROC13_juego_Leo
-PROC13_juego_Plantilla
+# PROC13_Juego_Completo
